@@ -1,1 +1,1 @@
-# fys4220-discussion
+# FYS4220 discussions
